@@ -1,0 +1,56 @@
+body {
+	background: #777;
+	width:960px;
+	font-family: 'Arial', 'Helvetica Neue', 'sans-serif';
+}
+
+header {
+	background-color: white;
+	border: 5px solid black;
+	text-align:center;
+	height: 70px;
+	margin-bottom: 20px; 
+	padding-top: 40px;
+
+}
+
+nav {
+	border: 5px solid black;
+	background-color: white;
+	text-align: center;
+	height: 70px;
+	margin-bottom: 40px; 
+	padding-top: 40px;
+}
+
+article {
+	display: inline;
+	float: left;
+}
+
+section {
+	height: 200px;
+	width: 495px;
+	border: 5px solid black;
+}
+aside {
+	border: 5px solid black;
+	height: 200px;
+	width: 465px;
+	text-align: center;
+	float:right;
+}
+
+footer{
+	border: 5px solid black;
+	background-color: #778;
+	text-align:center;
+	height: 70px;
+	margin-bottom: 20px; 
+	padding-top: 40px;
+	clear: both;
+}
+div{
+		border: 5px solid black;
+
+}
